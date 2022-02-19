@@ -1,0 +1,12 @@
+pyTelegramBotAPI==3.8.2
+textblob==0.17.1
+regex==2021.8.3
+pytesseract==0.3.8
+Pillow==8.2.0
+wikipedia==1.4.0
+moviepy==1.0.3
+selenium==3.141.0
+selenium-stealth==1.0.6
+SpeechRecognition==3.8.1
+language-tool-python==2.7.0
+chardet==3.0.4
