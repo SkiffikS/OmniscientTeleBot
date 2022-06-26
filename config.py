@@ -1,4 +1,4 @@
-token = "1916126862:AAHFszo4CfGMYH9vTKkTKnEKeH_OY0r4hb4"
+token = "-----------------------------------------------"
 
 # Python version in project
 python = "Python 3.9.5"
